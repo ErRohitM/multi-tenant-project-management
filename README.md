@@ -72,5 +72,7 @@ npm run dev
 
 locate <http://localhost:5173/> in browser
 
-Uploading simplescreenrecorder-2025-08-27_14.15.37.mp4…
+https://github.com/user-attachments/assets/8c6832d2-9204-4975-ae04-2d719c8cbf90
+
+
 
